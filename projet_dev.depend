@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1590494236 source:c:\projet_dev\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
+1590656110 source:c:\projet_dev_brick_shooter\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
+1590658771 source:c:\users\sarou\onedrive\bureau\projet_dev_brick_shooter\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
+1591172298 source:d:\projet_dev\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
+1591016506 source:d:\projet_dev\menu.cpp
+	<iostream>
+
+1591016958 source:d:\projet_dev\game.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
+1591021318 source:d:\projet_dev\menu_game.cpp
+	<iostream>
+
+1591186051 source:c:\users\killi\onedrive\bureau\projet_c++\main.cpp
+	<SFML/Graphics.hpp>
+

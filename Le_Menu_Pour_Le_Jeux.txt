@@ -1,0 +1,47 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+int choice;
+bool gameOn = true;
+while (gameOn != false){
+cout << "*******************************\n";
+cout << " 1 - Lancer la partie.\n";
+cout << " 2 - Parametres.\n";
+cout << " 3 - Regles.\n";
+cout << " 4 - Quitter.\n";
+cout << "Entrez votre choix puis appuyer sur entrer";
+
+cin >> choice;
+
+switch (choice)
+{
+case 1:
+cout << "La game se lance!\n";
+gameOn = false;
+// rest of code here
+break;
+case 2:
+cout << "Vitesse:3\n Tirer:E \n";
+// rest of code here
+break;
+case 3:
+cout << "R?gle du jeu Brick Shooter : Les principes de ce jeu sont assez simples et tu ne devrais avoir aucune difficult? majeure pour y jouer. Dans Brick Shooter, tu dois tout simplement d?truire les cubes. Pour jouer ? ce jeu gratuit il suffit de cliquer sur les cubes quand au moins 2 cubes de la m?me couleur sont align?s, ils disparaissent ainsi du jeu. Le tout est une question de rapidit? et de concentration pour faire disparaitre le cubes le plus vite possible et emmagasiner le plus de points possible. \n";
+// rest of code here
+break;
+case 4:
+cout << "\n";
+gameOn = false;
+break;
+default:
+cout << "Not a Valid Choice. \n";
+cout << "Choose again.\n";
+cin >> choice;
+break;
+}
+
+}
+return 0;
+}
