@@ -28,7 +28,7 @@ cout << "Vitesse:3\n Tirer:E \n";
 // rest of code here
 break;
 case 3:
-cout << "R?gle du jeu Brick Shooter : Les principes de ce jeu sont assez simples et tu ne devrais avoir aucune difficult? majeure pour y jouer. Dans Brick Shooter, tu dois tout simplement d?truire les cubes. Pour jouer ? ce jeu gratuit il suffit de cliquer sur les cubes quand au moins 2 cubes de la m?me couleur sont align?s, ils disparaissent ainsi du jeu. Le tout est une question de rapidit? et de concentration pour faire disparaitre le cubes le plus vite possible et emmagasiner le plus de points possible. \n";
+cout << "R?gle du jeu Brick Shooter : Les principes de ce jeu sont assez simples et tu ne devrais avoir aucune difficulté majeure pour y jouer. Dans Brick Shooter, tu dois tout simplement d?truire les cubes. Pour jouer ? ce jeu gratuit il suffit de cliquer sur les cubes quand au moins 2 cubes de la m?me couleur sont align?s, ils disparaissent ainsi du jeu. Le tout est une question de rapidit? et de concentration pour faire disparaitre le cubes le plus vite possible et emmagasiner le plus de points possible. \n";
 // rest of code here
 break;
 case 4:
